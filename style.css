@@ -99,7 +99,7 @@ header {
 .top_container {
     width:100%;
     min-height:380px;
-    background-image:url('back.jpeg');
+    background-image:url('backimg.jpeg');
     background-repeat:no-repeat;
     background-size:cover; 
     background-position:center;
